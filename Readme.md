@@ -3,7 +3,7 @@ The dataset generated and analyzed during the current study is not publicly avai
 
 # Simulation Studies
 ## Requirements
-* simulation study requires [wdm, locfdr, VineCopula, EnvStats, BiocManager, devtools, reticulate, mixtools, truncnorm, splines] packages from cran R, [IHW, swfdr] package from Bioconductor and [RadaFDR, DESeq2] package from github.
+* simulation study requires [wdm, locfdr, VineCopula, EnvStats, BiocManager, devtools, reticulate, mixtools, truncnorm, splines] packages from cran R, [IHW, swfdr, DESeq2] package from Bioconductor and [RadaFDR] package from github.
 * To download packages in cran R, use the following command : install.packages("packageName")
 * To download package in Bioconductor, call Bioconductor first and then use the following commmand : BiocManager::install("packageName")
 * To download package in Github, use the following command : devtools::install_github("fxia22/RadaFDR", force = TRUE)
