@@ -1,5 +1,5 @@
 # Data Availability
-The dataset generated and analyzed during the current study is not publicly available due to [reason, e.g., privacy concerns, proprietary restrictions, etc.], but it will be made available upon reasonable request. Researchers who are interested in accessing the dataset for replication or further study can contact the corresponding author at westshine28@snu.ac.kr.
+The dataset generated and analyzed during the current study is not publicly available due to [reason, e.g., privacy concerns, proprietary restrictions, etc.], but it will be made available upon reasonable request. Researchers who are interested in accessing the dataset for replication or further study can contact the author at westshine28@snu.ac.kr.
 
 # Simulation Studies
 ## Requirements
